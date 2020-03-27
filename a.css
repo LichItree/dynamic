@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.token.selector{
+    color:black;
+}
+.token.property{
+    color:black;
+}
+.token.function{
+    color:black;
+}
+#code{
+    height: 100vh;  /* 去掉丑丑的进度条，改成我们帮他滚动的效果 */
+    overflow: hidden;
+    
+
+}
+
+
